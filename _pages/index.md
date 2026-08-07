@@ -9,28 +9,17 @@ author_profile: true
 ## Assistant Professor of Electrical & Computer Engineering
 **Massachusetts Institute of Technology**  
 Department of Electrical Engineering and Computer Science  
-Research Laboratory of Electronics (RLE
+Research Laboratory of Electronics (RLE)
 
 ---
 
-### Academic Background
+### About & Academic Background
 I lead the **Integrated Quantum Photonics Lab** at MIT, where my group develops scalable photonic quantum computing architectures and high-performance quantum communication systems. My work bridges nanophotonics, quantum information science, and semiconductor device engineering to build next-generation quantum technologies.
 
 Prior to joining MIT in 2023, I was a **Junior Fellow at the Harvard Society of Fellows** (2020–2023), where I worked with Prof. Mikhail Lukin on solid-state quantum emitters. I completed my PhD in Applied Physics at Caltech (2020) under Prof. Kerry Vahala, and earned my BSc in Engineering Physics from the University of Toronto (2015) with highest honors.
 
----
-
-### Selected Publications (Featured on Homepage)
-*Full publication list available on the [Publications page](/publications/)*
-
-1. **Taylor, L.J.**, et al. (2024). *"128-Qubit Programmable Photonic Quantum Processor"*. **Nature** (Cover Article)
-2. **Taylor, L.J.**, & Lukin, M.D. (2022). *"Room-Temperature Solid-State Quantum Memory with 1.2 Second Coherence"*. **Science**
-3. **Taylor, L.J.**, et al. (2021). *"Integrated Photonic Entanglement Source with 99.9% Fidelity"*. **Physical Review Letters** (Editors' Suggestion)
-4. **Taylor, L.J.**, & Vahala, K.J. (2019). *"Ultra-high-Q Silicon Nitride Resonators for Quantum Photonics"*. **Nature Photonics**
-5. **Taylor, L.J.**, et al. (2023). *"Quantum Key Distribution Over 1200 km Using Integrated Photonic Transmitters"*. **Nature Communications**
-6. **Taylor, L.J.**, et al. (2024). *"Error Correction in Photonic Quantum Processors"*. **Physical Review X**
-
-> 42 total peer-reviewed publications | >3,800 citations | h-index = 22 | 3 US Patents
+#### Publication Overview (Recorded in About Section)
+My research output includes **42 peer-reviewed publications** in top journals including *Nature*, *Science*, *Nature Photonics*, and *Physical Review Letters*, with over 3,800 total citations and an h-index of 22. I also hold 3 US patents on quantum photonic device design. Full publication list is available on the dedicated [Publications page](/publications/).
 
 ---
 
